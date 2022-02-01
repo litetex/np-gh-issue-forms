@@ -91,3 +91,8 @@ body:
       value: |
         - Android version/Custom ROM version: 
         - Device model: 
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional information
