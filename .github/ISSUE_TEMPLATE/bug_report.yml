@@ -16,7 +16,7 @@ body:
     attributes:
       label: "Checklist"
       options:
-        - label: "I am able to reproduce the bug with the latest version"
+        - label: "I am able to reproduce the bug with the [latest version](http://localhost)"
           required: true
         - label: "I checked, but didn't find any duplicates (open OR closed) of this issue in the repo"
           required: true
