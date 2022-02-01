@@ -1,4 +1,4 @@
-name: Bug Report2
+name: Bug Report
 description: Create a bug report to help us improve
 labels: [bug]
 body:
@@ -16,11 +16,11 @@ body:
     attributes:
       label: "Checklist"
       options:
-        - label: "I am able to reproduce the bug with the [latest version](http://localhost)"
+        - label: "I am able to reproduce the bug with the [latest version](https://github.com/TeamNewPipe/NewPipe/releases/latest)"
           required: true
-        - label: "I checked, but didn't find any duplicates (open OR closed) of this issue in the repo"
+        - label: "I checked, but didn't find any duplicates ([open](https://github.com/TeamNewPipe/NewPipe/issues) OR [closed](https://github.com/TeamNewPipe/NewPipe/issues?q=is%3Aissue+is%3Aclosed)) of this issue in the repo"
           required: true
-        - label: "I have read the contribution guidelines given at XY"
+        - label: "I have read the [contribution guidelines](https://github.com/TeamNewPipe/NewPipe/blob/dev/.github/CONTRIBUTING.md)"
           required: true
         - label: "This issue contains only one bug. I will open one issue for every bug report I want to file."
           required: true
@@ -74,7 +74,7 @@ body:
         GitHub supports uploading them directly in the text box.
         If your file is too big for Github to accept, try to compress it (ZIP-file) or feel free to paste a link from an image/video hoster here instead.
         
-        :heavy_exclamation_mark:  DON'T POST SCREENSHOTS OF THE ERROR PAGE.
+        :heavy_exclamation_mark: DON'T POST SCREENSHOTS OF THE ERROR PAGE.
         Instead paste the text in the "Logs"-section below.
 
   - type: textarea
