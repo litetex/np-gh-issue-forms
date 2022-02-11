@@ -5,8 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for making NewPipe better by suggesting a feature. :hug:
-        
+        Thank you for making NewPipe better by suggesting a feature. :hugs:
+
         Your ideas are highly welcome! It's a tool for you, the users, after all.
         
   - type: checkboxes

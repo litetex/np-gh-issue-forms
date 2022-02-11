@@ -5,8 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for making NewPipe better by reporting a bug. :hug:
-        
+        Thank you for making NewPipe better by reporting a bug. :hugs:
+
         Please fill in as much information as possible about your bug so that we don't have to play "information ping-pong" but can help you immediately.
 
   - type: checkboxes

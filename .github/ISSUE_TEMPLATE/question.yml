@@ -5,6 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        Thanks for taking the time to fill out this issue! :hugs:
+        
         Note that you can also ask questions on our [IRC channel](https://web.libera.chat/#newpipe).
 
   - type: checkboxes
