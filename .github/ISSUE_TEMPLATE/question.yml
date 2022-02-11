@@ -7,7 +7,7 @@ body:
       value: |
         Thanks for taking the time to fill out this issue! :hugs:
 
-        Note that you can also ask questions on our [IRC channel](https://github.com/TeamNewPipe/NewPipe/blob/dev/.github/CONTRIBUTING.md#communication) [![IRC channel: #newpipe](https://img.shields.io/badge/IRC%20chat-%23newpipe-brightgreen.svg)](https://web.libera.chat/#newpipe)
+        Note that you can also ask questions on our [IRC channel](https://web.libera.chat/#newpipe).
 
   - type: checkboxes
     id: checklist
