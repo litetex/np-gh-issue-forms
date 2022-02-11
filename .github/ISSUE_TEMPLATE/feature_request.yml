@@ -5,7 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for making NewPipe better by suggesting a feature.
+        Thank you for making NewPipe better by suggesting a feature. :hug:
+        
         Your ideas are highly welcome! It's a tool for you, the users, after all.
         
   - type: checkboxes
@@ -46,4 +47,5 @@ body:
   - type: textarea
     id: additional-information
     attributes:
-      label: Any other information you'd like to include, for instance, sketches, mockups, etc.
+      label: Additional information
+      description: Any other information you'd like to include, for instance, sketches, mockups, etc.
