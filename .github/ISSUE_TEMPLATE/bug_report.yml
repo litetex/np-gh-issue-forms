@@ -106,7 +106,7 @@ body:
       label: Additional information
       description: |
         Any other information you'd like to include, for instance that 
-        * the affected device is e.g. foldable or a TV
+        * the affected device is foldable or a TV
         * you have disabled all animations on your device
         * your cat disabled your network connection
         * ...
